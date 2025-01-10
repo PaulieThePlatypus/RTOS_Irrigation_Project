@@ -1,7 +1,3 @@
-# RTOS_Project
-We implement the  irrigation system as described belowed:
-- folder project is for the simplest way to implement FSM
-- folder project0 is for O(1) Cooperative Scheduler
 # Description
 An agricultural irrigation system needs to perform the following 5 tasks, for each irrigation session:
 - Open fertilizer mixing Valve 1 for 5 seconds
